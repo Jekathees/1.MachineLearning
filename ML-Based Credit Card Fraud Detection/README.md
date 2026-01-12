@@ -38,4 +38,7 @@ It is important that credit card companies are able to recognize fraudulent cred
 - Train-test split with **stratification**  
 - Hyperparameter tuning using **GridSearchCV**  
 - Evaluation with **F1-score, Confusion Matrix**
+<img width="605" height="304" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/cd4e51fa-fd54-4214-ab06-52aafdae371e" />
+
+- 
 
