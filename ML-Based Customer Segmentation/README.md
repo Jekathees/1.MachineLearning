@@ -45,7 +45,7 @@ There are **no missing values** in the dataset.
  - Clustered data is saved as:  
   `customer_segments.csv`
   
-## 📈 Final Clusters Visualization
+## Final Clusters Visualization
 The final K-Means clustering result visually shows how customers are grouped based on their annual income and spending score.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39d9c874-8869-441d-bb30-2fd57f3ec5b9" />
 
