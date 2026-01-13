@@ -68,9 +68,6 @@ Model evaluation uses the following metrics:
 - Confusion Matrix
 - Classification Report (Precision, Recall, F1-score)
 
----
 
-## 📜 License
-This project is open source — feel free to modify and improve.
 
 
