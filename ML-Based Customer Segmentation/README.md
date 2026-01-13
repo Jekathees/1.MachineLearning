@@ -40,8 +40,9 @@ There are **no missing values** in the dataset.
 ---
 
 ## Results
-- The **Elbow Method** showed a bend at **k = 5**, meaning **5 clusters** provide the best balance.  
-- Clustered data is saved as:  
+- The **Elbow Method** showed a bend at **k = 5**, meaning **5 clusters** provide the best balance.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3a178f2a-6fbd-497d-815d-eba1786c30bc" />
+ - Clustered data is saved as:  
   `customer_segments.csv`
   
 ## 📈 Final Clusters Visualization
