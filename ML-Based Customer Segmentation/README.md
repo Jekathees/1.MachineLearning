@@ -60,7 +60,6 @@ The final K-Means clustering result visually shows how customers are grouped bas
 
 ## Output Files
 - `customer_segments.csv` → Final dataset with cluster labels  
-- Plots showing clustered customer groups
 
 ---
 
