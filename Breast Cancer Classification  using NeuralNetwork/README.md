@@ -7,7 +7,7 @@ The model is trained using **TensorFlow & Keras**, with standardized numerical f
 
 ---
 
-## 🗂 Dataset Description
+## Dataset Description
 
 ### Source
 Dataset used: **Breast Cancer Wisconsin (Diagnostic)**  
