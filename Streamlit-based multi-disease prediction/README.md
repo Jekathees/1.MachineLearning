@@ -1,4 +1,4 @@
-## 📌 Overview
+## Overview
 This project is a **Streamlit-based application** that predicts multiple diseases using **pre-trained machine learning models**.  
 The app currently supports predictions for:  
 - **Diabetes**  
