@@ -10,10 +10,6 @@ Two implementations are provided based on how the images are loaded and processe
 
 Your dataset must follow this directory structure:
 dataset/
-├── with_mask/
-└── without_mask/
-
-
 - `with_mask/` → Images of people wearing masks
 - `without_mask/` → Images of people without masks
 
@@ -32,12 +28,13 @@ This version:
 - Builds a CNN manually in Keras
 - Shows training graphs (accuracy & loss)
 - Predicts on custom images
-
+<img width="1267" height="488" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/d6f85c04-28bc-4c78-99ac-0ecfcd6c14dc" />
 ### Advantages
 
 - Gives full control over image processing
 - Shows how datasets are prepared internally
 - Useful for learning how CNNs handle images
+
 
 ### Disadvantages
 
@@ -56,6 +53,7 @@ This version:
 - Performs automatic data augmentation
 - Performs automatic validation split
 - Optimized for training pipelines
+<img width="1256" height="491" alt="Screenshot (292)" src="https://github.com/user-attachments/assets/5b26f0ef-9a9a-4f12-a434-3648af349565" />
 
 ### Included Augmentations:
 
