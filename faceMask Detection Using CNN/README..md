@@ -29,6 +29,7 @@ This version:
 - Shows training graphs (accuracy & loss)
 - Predicts on custom images
 <img width="1267" height="488" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/d6f85c04-28bc-4c78-99ac-0ecfcd6c14dc" />
+
 ### Advantages
 
 - Gives full control over image processing
